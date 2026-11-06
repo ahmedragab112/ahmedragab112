@@ -26,7 +26,7 @@
 
 I build Flutter apps end to end — architecture, native bridges, CI/CD, and the maintenance work that keeps a crash-free rate climbing. Three years of that across fintech, delivery, healthcare and on-demand marketplaces.
 
-Currently senior Flutter developer at **CHD**, part-time at **Sesshat**, and shipping my own macOS app, [**Nook**](https://github.com/ahmedragab112/nook).
+Currently senior Flutter developer at **CHD** and **Sesshat**, and shipping my own macOS app, [**Nook**](https://github.com/ahmedragab112/nook).
 
 ## Selected work
 
