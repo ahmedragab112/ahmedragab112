@@ -65,13 +65,14 @@ Currently senior Flutter developer at **CHD** and **Sesshat**, and shipping my o
 | **State** | BLoC / Cubit · GetX · Provider |
 | **Backend** | Firebase (Auth, Firestore, FCM, Storage) · REST · GraphQL |
 | **Integrations** | Apple Pay · Stripe · Google Maps · WebRTC · MethodChannels |
-| **Quality** | unit / widget / integration tests · flavors · code review |
+| **Testing** | unit · widget · integration tests · flavors · code review |
 | **Delivery** | Codemagic · GitHub Actions · Play Console · App Store Connect |
 
 ## Highlights
 
 - **−40%** crash rate on a production app after reworking error handling and state flows.
 - **−35%** CI build time by restructuring the Codemagic pipeline.
+- Unit, widget and integration testing across all three Flutter test layers.
 - Head of the Mobile Application Team, **GDSC Fayoum**; ICPC competitive programmer.
 - BSc Computer Science, Fayoum University.
 
